@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on 1v1 chat app.<br>👯 I’m looking to collaborate on studymaster.<br>🤝 I’m looking for help with threejs.<br>🌱 I’m currently learning business.
+🔭 I’m currently working on 1v1 chat app.<br>👯 I’m looking to collaborate on studymaster.<br>🤝 I’m looking for help with threejs.<br>🌱 I’m currently learning firebase
 
 
 ## 🌐 Socials:
